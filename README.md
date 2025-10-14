@@ -36,10 +36,3 @@ https://youtu.be/Zos6zW_a8yI
   <img src="https://github.com/Abhitay/UIDAI-hackathon-Problem-Statement-2/blob/main/assets/screen/database.PNG" width="800" />
 </p>
 
-# Contribution
-A project by <br>
-- [Maanaav Motiramani](https://github.com/Maanaav) <br>
-- [Abhitay Shinde](https://github.com/Abhitay)
-- [Anurag Singh](https://github.com/Anurag1902)
-- [Parth Mody](https://github.com/ParthMody)
-- [Pratham Soni](https://github.com/PrathamSoni4473)
